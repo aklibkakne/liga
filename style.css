@@ -8,7 +8,7 @@ font-family: Arial;
 #header{
 border: 1px solid black;
 width: 100%;
-height: 140px;
+height: 240px;
 background: #202020;
 text-align: center;
 }
@@ -70,8 +70,16 @@ color: red;
 }
 
 #header #logo img{
-margin-top: 20px;
+margin-top: 10px;
 margin-left: -350px;
+}
+#wrapper #foto img{
+width: 100px;
+height: 100px;
+}
+#wrapper #foto1 img{
+width: 100px;
+height: 100px;
 }
 
 #wrapper #table1{
